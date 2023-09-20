@@ -7,5 +7,4 @@ import { Component } from '@angular/core';
 })
 export class BlockComponent {
   title = 'CodeSandbox';
-  list: string = 'A B C';
 }
